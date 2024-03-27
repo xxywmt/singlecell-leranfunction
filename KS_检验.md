@@ -7,5 +7,4 @@ ks_test_result <- ks.test(x, y)# 进行两样本KS检验
 
 # 文章中的实列
 
-https://ars.els-cdn.com/content/image/1-s2.0-S1074761324000839-gr2_lrg.jpg
-
+![Uploading 微信图片_20240327165319.png…]()
