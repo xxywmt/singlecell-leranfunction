@@ -7,7 +7,10 @@ ks_test_result <- ks.test(x, y)# 进行两样本KS检验
 
 # 文章中的实列
 https://www.sciencedirect.com/science/article/pii/S1074761324000839?via%3Dihub#sec2.1
+<img width="569" alt="微信图片_20240327165319" src="https://github.com/xxywmt/singlecell-leranfunction/assets/112865891/4983f306-e68b-46e7-a217-b7ee8a161911">
+
 ![Uploading 微信图片_20240327165319.png…]()
+
 
 # 简介：作者使用slingshot给cd4+和cd8+细胞进行pesudo分析，然后给pesudotime末端的细胞群之间使用ks检验计算是否有差异，这样的作法可以观察看患者经过不同处理之后的细胞分化演变情况是否有差异。
 
